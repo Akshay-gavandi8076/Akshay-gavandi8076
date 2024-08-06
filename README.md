@@ -8,7 +8,7 @@
 - 👨‍💻 I was an Software Developer for an Automative Software Project at <a href="https://www.intenta.de/de/startseite.html" style="text-decoration: underline; color: #1E90FF;">Intenta SEH GmbH</a>
 - 👨‍💻 I was an Software Engineer at <a href="https://unternehmen.1und1.de/" style="text-decoration: underline; color: #1E90FF;">1&1 Telecommunication SE</a>
 - 🌱 I’m currently learning **Advanced Microservice Architecture and Development using Node.js and Next.js, aiming for Microsoft Azure certification.**
-- 📝 All of my projects are available <a href="https://github.com/Akshay-gavandi8076" style="text-decoration: underline; color: #1E90FF;">here</a>.
+- 📝 All of my projects are available <a href="https://github.com/Akshay-gavandi8076?tab=repositories" style="text-decoration: underline; color: #1E90FF;">here</a>.
 - 💬 Ask me about **anything, I am happy to help;**
 - 📫 Please email via <a href="https://unternehmen.1und1.de/" style="text-decoration: underline; color: #1E90FF;">**Akshay.gavandi1@gmail.com**</a> to reach me.
 
