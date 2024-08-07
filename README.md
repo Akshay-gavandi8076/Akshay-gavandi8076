@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay
 
-<p> Hi there, I'm Akshay Gavandi, currently holding <b>Master's degree in Computer Science</b> from SRH Hochschule Heidelberg, Germany and have around 3 years of hands-on experience in crafting scalable applications across diverse tech stacks. A highly-skilled team player, I thrive in collaborative environments, seamlessly working alongside developers and testers. 🚀 I specialize in Full Stack Web and Mobile App Development and am proficient in JavaScript, along with related frameworks and libraries. My expertise extends to backend development and database management, with significant experience in REST Services & Micro-Services using various technologies.</p>
+<p> Hi there, I'm Akshay Gavandi, currently holding <b>Master's degree in Computer Science</b> from SRH Hochschule Heidelberg, Germany and have around 3 years of hands-on experience in crafting scalable applications across diverse tech stacks. A highly-skilled team player, I thrive in collaborative environments, seamlessly working alongside developers and testers. 🚀 I specialize in Full Stack Web and Mobile App Development and I am proficient in JavaScript, along with related frameworks and libraries. My expertise extends to backend development and database management, with significant experience in REST Services & Micro-Services using various technologies.</p>
 
 <h3>Talking about Personal Stuffs:</h3>
 
