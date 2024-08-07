@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Advanced Microservice Architecture and Development using Node.js and Next.js, aiming for Microsoft Azure certification.**
 - 📝 All of my projects are available <a href="https://github.com/Akshay-gavandi8076?tab=repositories" style="text-decoration: underline; color: #1E90FF;">here</a>.
 - 💬 Ask me about **anything, I am happy to help;**
-- 📫 Please email me at <a href="https://unternehmen.1und1.de/" style="text-decoration: underline; color: #1E90FF;">**Akshay.gavandi1@gmail.com**</a> to reach me.
+- 📫 Feel free to reach out via email at <a href="https://unternehmen.1und1.de/" style="text-decoration: underline; color: #1E90FF;">**Akshay.gavandi1@gmail.com**</a>.
 
 # 💻 Languages and Tools:
 
